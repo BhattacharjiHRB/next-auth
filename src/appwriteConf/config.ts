@@ -1,5 +1,5 @@
 import config from "@/conf/config";
-import { Client, Account, ID } from 'appwrite';
+import {Client,Account , ID } from "appwrite"
 
 
 

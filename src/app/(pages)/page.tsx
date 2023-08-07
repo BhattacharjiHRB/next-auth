@@ -28,7 +28,7 @@ const Home = () => {
                         <p className="text-zinc-100">
                             An User Authentication System integrating with Appwrite. 
                             Enjoy your browising more sercure and friendly. Next Auth authentication
-                            system made by <a href="" className="text-lg text-sky-600 hover:underline">Hrittik Bhattacharjee</a>  
+                            system made by <a href="https://github.com/BhattacharjiHRB" className="text-lg text-sky-800 hover:text-sky-500">Hrittik Bhattacharjee</a>  
                         </p>
                     </div>
                 </div>

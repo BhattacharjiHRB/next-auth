@@ -25,7 +25,7 @@ const ProfileCard= () => {
                 <div className="flex gap-y-6 flex-wrap">
                     <div className="flex w-full gap-x-4 items-center">
                         <div className="shrink-0 w-20">
-                            <Avatar img="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" />
+                            <Avatar img="https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=100" />
                         </div>
                         <div className="relative">
                             <p className="font-bold text-xl w-full mb-1">{user.name}</p>
@@ -34,13 +34,13 @@ const ProfileCard= () => {
                             </div>
                         </div>
                     </div>
-                    <div className="bg-gray-200/70 rounded-xl px-8 py-8 w-full flex gap-y-4 flex-wrap">
+                    <div className="bg-zinc-200/50 rounded-xl px-8 py-8 w-full flex gap-y-4 flex-wrap">
                         <div className="relative w-full">
                             <p className="text-sm text-gray-700">Display Name</p>
                             <p className="font-semibold">{user.name}</p>
                         </div>
                         <div className="relative w-full">
-                            <p className="text-sm text-gray-700">Email Id</p>
+                            <p className="text-sm text-gray-700">Email Address</p>
                             <p className="font-semibold">{user.email}</p>
                         </div>
                         <div className="relative w-full">
