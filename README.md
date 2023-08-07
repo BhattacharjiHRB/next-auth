@@ -1,4 +1,4 @@
-##Next-Auth 
+## Next-Auth 
 Next Auth is an authentication web application integrated with appwrite Open source Backend
 
 
